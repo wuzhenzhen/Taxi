@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:layout_marginLeft="20dp">
+    <TextView
+        style="@style/main_title_icon_style"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/title_sig"/>
+    <TextView
+        style="@style/main_title_icon_style"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/title_svr"/>
+    <TextView
+        style="@style/main_title_icon_style"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/title_gps"/>
+    <TextView
+        style="@style/main_title_icon_style"
+        android:background="@drawable/title_dvs"/>
+</LinearLayout>

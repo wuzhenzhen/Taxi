@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <color name="brack">#000000</color>
+    <color name="tv_org">#FFCC33</color>
+    <color name="tv_green">#66FF33</color>
+
+    <color name="title_blue">#0099FF</color>
+
+    <color name="taxi_status_text">#04D3BE</color>
+    <color name="taxi_status_money_text">#FFF600</color>
+
+</resources>
